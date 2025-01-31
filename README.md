@@ -3,7 +3,7 @@
 ## Overview
 Remote Shutdown is a script made in **Python**, that sets up an HTTP server to listen for shutdown commands over the network. When a valid request is received with the correct shutdown token, the script initiates a system shutdown on the local machine.
 
-> ℹ️ Want it in C# or as a Windows service? Check out [Remote-Shutdown](https://github.com/adamt-eng/Remote-Shutdown)!
+> ℹ️ Want it in C# or as a Windows service? Check out [remote-shutdown-csharp](https://github.com/adamt-eng/remote-shutdown-csharp)!
 
 ## Features
 - Remote shutdown functionality over the network.
